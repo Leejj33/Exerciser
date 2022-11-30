@@ -1,5 +1,6 @@
 ## 📌 운동인
 교육 과정 세미 팀 프로젝트로 진행한 운동 커뮤니티 웹서비스 입니다. <br />
+[스토리보드][Semi Project - 운동인.pdf](https://github.com/Leejj33/Exerciser/files/10120835/Semi.Project.-.pdf)
 <br /> <br />
 
 ## 🛠 사용한 기술 및 도구
@@ -28,4 +29,4 @@
 - 관리자 기능
    회원 조회, 회원 탈퇴, 신고 내용 조회, 좋아요 관리
 
-[Semi Project - 운동인.pdf](https://github.com/Leejj33/Exerciser/files/10120835/Semi.Project.-.pdf)
+
