@@ -28,6 +28,4 @@
 - 관리자 기능
    회원 조회, 회원 탈퇴, 신고 내용 조회, 좋아요 관리
 
-<br>
-
 [Semi Project - 운동인.pdf](https://github.com/Leejj33/Exerciser/files/10120835/Semi.Project.-.pdf)
